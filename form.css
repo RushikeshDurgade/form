@@ -1,0 +1,14 @@
+.fa-mailchimp{
+    position: absolute;
+    top: 6%;
+    left: 9%;
+}
+#email{
+    position: relative;
+}
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: darkgray;
+    font-family: 'Shadows Into Light', cursive;
+}
